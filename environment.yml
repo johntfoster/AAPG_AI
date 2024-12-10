@@ -1,0 +1,21 @@
+name: aapg2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - ipympl
+  - ipython
+  - ipywidgets
+  - jupyter-ai
+  - jupyterlab
+  - langchain-anthropic
+  - langchain-openai
+  - matplotlib
+  - notebook=6
+  - numpy
+  - pandas
+  - pip
+  - python=3.12.8
+  - scikit-learn
+  - scipy
